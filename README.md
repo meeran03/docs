@@ -1,32 +1,9 @@
-# Mintlify Starter Kit
+# Documentation starter — historical
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+An earlier Mintlify starter experiment, retained for reference. This repository contains template pages and is **not the current Burki documentation**.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+- [Current public documentation source](https://github.com/meeran03/mintlify-docs)
+- [Live Burki documentation](https://docs.burki.dev)
+- [Current engineering portfolio](https://meeran.dev)
 
-### Development
-
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
-
-```
-npm i -g mintlify
-```
-
-Run the following command at the root of your documentation (where docs.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+The files here preserve the original navigation, component examples, and sample API pages. Start with the current source above for product integration work.
